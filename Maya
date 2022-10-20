@@ -1,0 +1,5 @@
+public class reva{
+public static void main(String[] args){
+int a=13;
+system.out.println(a);
+}}
